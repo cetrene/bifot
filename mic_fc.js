@@ -1,6 +1,6 @@
 let resBox = "MinC";
 
-let nbg1 = "http://ide";
+let nbg1 = "https://ide";
 let nbg2 = "anove.li";
 let nbg3 = "ve/bre";
 let nbg4 = "sdf/zo";
